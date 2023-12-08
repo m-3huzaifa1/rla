@@ -79,7 +79,7 @@ header .nav-items {
       height: 0.125rem;
       transition: ease-in-out 0.1s;
       box-shadow: 0 2px 5px rgba(255, 255, 255, 0.6);
-      background: #fd580b;
+      background: rgb(14, 151, 18);
       position: relative; }
       header .nav-items .menu-toggle .menu-hamburger.active {
         background: rgba(0, 0, 0, 0);
@@ -95,7 +95,7 @@ header .nav-items {
         height: 0.125rem;
         transition: ease-in-out 0.1s;
         box-shadow: 0 2px 5px rgba(255, 255, 255, 0.6);
-        background: #fd580b;
+        background: rgb(14, 151, 18);
         transform: translatey(-0.625rem); }
       header .nav-items .menu-toggle .menu-hamburger::after {
         position: absolute;
@@ -104,7 +104,7 @@ header .nav-items {
         height: 0.125rem;
         transition: ease-in-out 0.1s;
         box-shadow: 0 2px 5px rgba(255, 255, 255, 0.6);
-        background: #fd580b;
+        background: rgb(14, 151, 18);
         transform: translatey(0.625rem); }
   header .nav-items .logo {
     width: 30%;
@@ -177,10 +177,10 @@ header .nav-items {
 /* ================================ Slider CSS =============================== */
 .banner {
   position: relative;
-  height: 37.5rem;
+  height: 50.0rem;
   overflow: hidden;
   transition: all ease-in-out 0.5s;
-  background-image: url(../images/slider/1.jpg);
+  background-image: url(../images/slider/3.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
